@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Profile Password Lock",
+  "version": "1.0",
+  "description": "Secure your chrome account with a password",
+  "permissions": ["windows", "tabs", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "/icons/chromeLock.png",
+    "48": "/icons/chromeLock.png",
+    "128": "/icons/chromeLock.png"
+  }
+}
