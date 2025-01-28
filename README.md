@@ -1,3 +1,3 @@
 # ChromeProfilePasswordLock Extension
-Chrome Extension
+Chrome Extension  
 Secure chrome account with a password
